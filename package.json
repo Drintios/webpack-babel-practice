@@ -28,6 +28,6 @@
     "@babel/plugin-proposal-numeric-separator": "^7.8.3",
     "@babel/plugin-proposal-throw-expressions": "^7.8.3",
     "html-webpack-plugin": "^4.2.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
